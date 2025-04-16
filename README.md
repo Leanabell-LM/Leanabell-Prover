@@ -80,14 +80,11 @@ Coming soon ...
 
 ## 5. Citation
 ```latex
-@misc{lin2025goedelproverfrontiermodelopensource,
-      title={Goedel-Prover: A Frontier Model for Open-Source Automated Theorem Proving}, 
-      author={Yong Lin and Shange Tang and Bohan Lyu and Jiayun Wu and Hongzhou Lin and Kaiyu Yang and Jia Li and Mengzhou Xia and Danqi Chen and Sanjeev Arora and Chi Jin},
-      year={2025},
-      eprint={2502.07640},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2502.07640}, 
+@article{zhang2025leanabell,
+  title={Leanabell-Prover: Posttraining Scaling in Formal Reasoning},
+  author={Zhang, Jingyuan and Wang, Qi and Ji, Xingguang and Liu, Yahui and Yue, Yang and Zhang, Fuzheng and Zhang, Di and Zhou, Guorui and Gai, Kun},
+  journal={arXiv preprint arXiv:2504.06122},
+  year={2025}
 }
 ```
 
