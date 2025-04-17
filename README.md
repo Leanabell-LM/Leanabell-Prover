@@ -5,7 +5,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)]((https://github.com/Leanabell-LM/Leanabell-Prover/graphs/commit-activity))
 ![Contributing](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
-**[[arXiv]](https://arxiv.org/abs/2504.06122) | [[Codes]](https://github.com/Leanabell-LM/Leanabell-Prover) | [[🤗 Huggingface]](https://huggingface.co/collections/stoney0062/leanabell-prover)** <br> 
+**[[arXiv]](https://arxiv.org/abs/2504.06122) | [[Codes]](https://github.com/Leanabell-LM/Leanabell-Prover) | [[🤗 Huggingface]](https://huggingface.co/collections/stoney0062/leanabell-prover-67fe4fae1dcf1d7221e309e9)** <br> 
 Jingyuan Zhang, Qi Wang, Xingguang Ji, Yahui Liu, Yang Yue, Fuzheng Zhang, Di Zhang, Guorui Zhou, Kun Gai <br>
 Kuaishou Technology <br>
 
@@ -63,16 +63,17 @@ We release the Goedel-Prover-SFT with 7B parameters to the public. Goedel-Prover
 
 |            **Model**            |                          **Download**                         |
 | :-----------------------------: | :----------------------------------------------------------: |
-|   Leanabell-Prover-DS-SFT   | [🤗 HuggingFace]|
-|   Leanabell-Prover-DS-RL   | [🤗 HuggingFace]|
-|   Leanabell-Prover-GD-SFT   | [🤗 HuggingFace]|
-|   Leanabell-Prover-GD-RL   | [🤗 HuggingFace]|
+|   Leanabell-Prover-DS-SFT   | [🤗 HuggingFace](https://huggingface.co/stoney0062/Leanabell-Prover-DS-SFT)|
+|   Leanabell-Prover-DS-RL   | [🤗 HuggingFace](https://huggingface.co/stoney0062/Leanabell-Prover-DS-RL)|
+|   Leanabell-Prover-GD-SFT   | [🤗 HuggingFace](https://huggingface.co/stoney0062/Leanabell-Prover-GD-SFT)|
+|   Leanabell-Prover-GD-RL   | [🤗 HuggingFace](https://huggingface.co/stoney0062/Leanabell-Prover-GD-RL)|
 </div>
 
-We are also releasing 140K formal statements and 22K high-quality proofs of the formal problems.
+We are also releasing 140K formal statements and 22K high-quality proofs of the formal problems:
 
+- [Formal Statements](https://huggingface.co/datasets/stoney0062/Leanabell-Prover-Formal-Statement)
+- [SFT training set](https://huggingface.co/collections/stoney0062/leanabell-prover-67fe4fae1dcf1d7221e309e9)
 
-Coming soon ...
 
 ## 4. Setup Environment
 
